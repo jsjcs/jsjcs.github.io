@@ -1,3 +1,7 @@
 theme: jekyll-theme-Architect
 title: 计算机computer science
 description: Bookmark this to keep an eye on my project updates!
+
+layout: page
+title: "ABOUT"
+permalink: about.md
