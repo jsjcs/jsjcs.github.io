@@ -9,5 +9,5 @@
                 "instapaper": false,
                 "twitter": true,
                 "vk": false,
-                "weibo": false
+                "weibo": true,
             },
